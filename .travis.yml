@@ -11,3 +11,7 @@ script:
   - qmake -project
   - qmake src/pattern-gen.pro
   - make
+notifications:
+  email:
+    on_success: never
+    on_failure: always
