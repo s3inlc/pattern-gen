@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Qt user files
+*.user
+
+# Qt shadow build files
+build-*
