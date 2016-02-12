@@ -1,6 +1,7 @@
 /*
- * $Id: calculation.cpp 7 2014-11-14 13:57:37Z sein $
- */
+* Project created by QtCreator 2013-12-09T19:46:26
+* Copyright 2014-2016 by Sein Coray
+*/
 
 #include "calculation.h"
 

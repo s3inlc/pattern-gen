@@ -1,6 +1,7 @@
 /*
- * $Id: main.cpp 3 2014-10-28 10:14:50Z sein $
- */
+* Project created by QtCreator 2013-12-09T19:46:26
+* Copyright 2014-2016 by Sein Coray
+*/
 
 #include "start.h"
 #include <QApplication>

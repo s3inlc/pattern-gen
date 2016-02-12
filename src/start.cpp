@@ -1,6 +1,7 @@
 /*
- * $Id: start.cpp 10 2015-02-18 17:37:42Z sein $
- */
+* Project created by QtCreator 2013-12-09T19:46:26
+* Copyright 2014-2016 by Sein Coray
+*/
 
 #include "start.h"
 #include "ui_start.h"
