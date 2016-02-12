@@ -17,7 +17,7 @@ TARGET = Pattern-Gen-v2
 TEMPLATE = app
 
 #QMAKE_LIBS += -Bstatic -static
-QMAKE_LIBS += -static-libgcc -static-libstdc++
+#QMAKE_LIBS += -static-libgcc -static-libstdc++
 
 SOURCES += main.cpp\
         start.cpp \
